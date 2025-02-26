@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 function Home() {
   const navigate = useNavigate();
 
-  return (
+  return ( 
     <div className="Home">
       <video className="background-video" autoPlay loop muted>
         <source src="/running.mp4" type="video/mp4" />

@@ -2,7 +2,7 @@
 import React from 'react';
 
 function Sections() {
-  return (
+  return ( 
     <div className="SectionsPage">
       <h2>Section 1</h2>
       <p>Innehåll för sektion 1...</p>

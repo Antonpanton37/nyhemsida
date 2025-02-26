@@ -6,7 +6,7 @@ import Sections from './sections';
 import PageOne from './pages/PageOne';
 import PageTwo from './pages/PageTwo';
 import PageThree from './pages/PageThree';
-import './App.css';
+import './App.css'; 
 
 function App() {
   return (
