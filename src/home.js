@@ -8,7 +8,7 @@ function Home() {
   return ( 
     <div className="Home">
       <video className="background-video" autoPlay loop muted>
-        <source src="/running.mp4" type="video/mp4" />
+        <source src="/lopningvid.mp4" type="video/mp4" />
       </video>
 
       <div className="overlay-text">
